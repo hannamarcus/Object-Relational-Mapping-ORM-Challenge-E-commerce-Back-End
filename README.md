@@ -26,6 +26,5 @@
 * Run node seeds/index.js to seed database
 * Run npm start to start server
 
-## Screenshots
-
-## Link to Video
+## Link to Video Tutorial
+* https://watch.screencastify.com/v/lXZX5mg2aLveXYsEAYX6
